@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karoly-Git
+- 👋 Hi, I’m Karoly, @Karoly-Git
 - 👀 I’m interested in Frontend and Backend Web Development
 - 🌱 I’m currently looking for a Web Developer job
 - 💞️ I'm looking to collaborate remotely, or office based or hybrid, ideally in London
