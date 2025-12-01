@@ -12,7 +12,6 @@ I could list the tools and technologies I know, but anyone can do that. I’d ra
 
 Freelancing has taught me to be independent, disciplined, and reliable. I’m not a “vibe coder.” I’m someone who likes to understand the problem, choose the right tools, and then just sit down and build.
 
-🛠 Tech Stack
 Frontend:
 HTML, CSS, SASS, Bootstrap, JavaScript, jQuery, React
 
