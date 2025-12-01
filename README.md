@@ -6,7 +6,7 @@ Most of what I know comes from teaching myself, trying things, messing up, and t
 
 What motivates me most is building something useful—something that makes someone’s life easier or solves a real problem. I don’t get excited about generic “starter apps.” I’d rather work on something messy and challenging. I’ve done paid projects, but honestly, some of my favorite work has been things I built simply because they were interesting or because I wanted to understand how something worked.
 
-I try to be resourceful. I don’t always know the right answer immediately, but I’m good at finding it. I use AI a lot—not as a crutch, but as a tool that helps me move faster and think more clearly. It frees me up to focus on design, architecture, and actual problem-solving instead of trying to memorize every last bit of syntax.
+I try to be resourceful. I don’t always know the right answer immediately, but I’m good at finding it. I use tools like AI—not as a crutch, but as a tool that helps me move faster and think more clearly. It frees me up to focus on design, architecture, and actual problem-solving instead of trying to memorize every last bit of syntax.
 
 I could list the tools and technologies I know, but anyone can do that. I’d rather someone browse my portfolio and see what I’ve actually built.
 
