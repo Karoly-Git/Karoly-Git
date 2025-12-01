@@ -1,4 +1,4 @@
-👋 Hi, I’m Karoly
+Hi, I’m Karoly
 
 I’m a developer who genuinely enjoys building things from the ground up. There’s something satisfying about taking an idea, breaking it down, and slowly turning it into something real. I like digging into problems, experimenting, hitting walls, and eventually finding the solution that actually works, not just the one that works “well enough.”
 
@@ -21,7 +21,6 @@ Node.js, Express.js, PHP, Python, REST APIs, SQL, MongoDB
 DevOps & Tools:
 Git, GitHub, VPS, Firebase, Heroku, Hostinger
 
-Let’s Connect:
 📧 Email: karoly.webdev@gmail.com
 🌐 Portfolio: karolyhornyak.co.uk
 🔗 LinkedIn: linkedin.com/in/karoly-hornyak
