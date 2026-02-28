@@ -18,6 +18,5 @@ Workflow: AI-assisted development
 I use AI as a productivity multiplier — to move faster, think more clearly, and focus on architecture and problem-solving rather than syntax.
 
 📧 karoly.webdev@gmail.com
-
 🌐 karolyhornyak.co.uk
 🔗 linkedin.com/in/karoly-hornyak
