@@ -9,10 +9,15 @@ My background includes a BSc in Engineering, and most of my growth has come from
 ⚙️ Tech Stack
 
 Frontend: Next.js, React, Redux, TypeScript, JavaScript, HTML5, CSS3, Sass
+
 Backend: Node.js, Express.js, Python
+
 Databases: PostgreSQL, MongoDB
+
 Cloud & DevOps: AWS, CI/CD, GitHub Actions
+
 Tools: Git, GitHub
+
 Workflow: AI-assisted development
 
 I use AI as a productivity multiplier — to move faster, think more clearly, and focus on architecture and problem-solving rather than syntax.
